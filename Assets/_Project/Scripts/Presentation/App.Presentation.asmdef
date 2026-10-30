@@ -1,0 +1,26 @@
+{
+    "name": "App.Presentation",
+    "rootNamespace": "App.Presentation",
+    "references": [
+        "App.Domain",
+        "App.Application",
+        "UniTask",
+        "UniRx",
+        "Zenject",
+        "DOTween.Modules",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "DOTween.dll",
+        "Zenject-usage.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

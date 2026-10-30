@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf54df36d3a21e4faa98874986f6d36, type: 3}
+  m_Name: ConfigsInstaller
+  m_EditorClassIdentifier: App.Bootstrap::App.Bootstrap.Installers.ConfigsInstaller
+  _network: {fileID: 11400000, guid: 24de804ce2a4dcf41938278426aec9f9, type: 2}
+  _clicker: {fileID: 11400000, guid: 086674dce0e25654baddfa5019c27e50, type: 2}
+  _weather: {fileID: 11400000, guid: 352fe96b80febc7429066111e1daa404, type: 2}
+  _dogs: {fileID: 11400000, guid: 140b4d9481e004546b71d691c29d5c7e, type: 2}

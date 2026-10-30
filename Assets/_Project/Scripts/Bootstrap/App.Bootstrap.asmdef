@@ -1,0 +1,24 @@
+{
+    "name": "App.Bootstrap",
+    "rootNamespace": "App.Bootstrap",
+    "references": [
+        "App.Domain",
+        "App.Application",
+        "App.Infrastructure",
+        "App.Presentation",
+        "UniTask",
+        "UniRx",
+        "Zenject"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Zenject-usage.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

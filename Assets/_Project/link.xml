@@ -1,0 +1,4 @@
+<linker>
+    <!-- DTOs are created by Newtonsoft.Json through reflection only; keep them from being stripped. -->
+    <assembly fullname="App.Infrastructure" preserve="all" />
+</linker>
